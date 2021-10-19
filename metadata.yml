@@ -1,0 +1,16 @@
+---
+:id: 69702755
+:submitters:
+- :name: Davin Thomas Seju
+  :email: dseju@uw.edu
+- :name: Neel Jog
+  :email: njog02@uw.edu
+- :name: MARK ALAN RYMAN
+  :email: mryman@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-13 03:51:07.464244000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-03-12 19:51:07.464244000 Z
+:status: processed
+:score: 1.0
